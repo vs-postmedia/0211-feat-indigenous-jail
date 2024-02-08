@@ -4,6 +4,9 @@
 	margin: 0 auto;
 	max-width: 750px;
 }
+#app .subhead {
+	margin-bottom: 7px;
+}
 .graphic-container {
 	display: flex;
 	margin: 0 auto;
